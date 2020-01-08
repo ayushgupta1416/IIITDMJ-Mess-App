@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459598668381",
+    "firebase_url": "https://mess-app-1571694260030.firebaseio.com",
+    "project_id": "mess-app-1571694260030",
+    "storage_bucket": "mess-app-1571694260030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459598668381:android:39bdc2dc2dc0d7c24aa3b4",
+        "android_client_info": {
+          "package_name": "com.example.vasuchand.messfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459598668381-tjevkr1010jnpqom0grofalglv3flp40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vasuchand.messfood",
+            "certificate_hash": "c117dc468999a19dc60d38f9e2133adbec46dbdf"
+          }
+        },
+        {
+          "client_id": "459598668381-s6a9jg91jocsc51g6kls6moilvi3bei3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdnRvSAbcWSgQirTEUAsgCh275_K0rdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459598668381-s6a9jg91jocsc51g6kls6moilvi3bei3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
